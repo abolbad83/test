@@ -30,3 +30,5 @@ const vara = (a,b,c,...args) => {
 
  console.log(arab);
  let aboll = 14
+
+ //ali
