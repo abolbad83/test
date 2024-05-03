@@ -33,3 +33,6 @@ const vara = (a,b,c,...args) => {
 
  //ali
  
+
+ //abil
+ console.log(12)
