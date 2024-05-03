@@ -32,3 +32,4 @@ const vara = (a,b,c,...args) => {
  let aboll = 14
 
  //ali
+ 
