@@ -29,3 +29,4 @@ const vara = (a,b,c,...args) => {
  let arab = `ali is ${10} years old and 2+2 is ${2+2} or ${akrab}`
 
  console.log(arab);
+ let aboll = 14
