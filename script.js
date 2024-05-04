@@ -37,4 +37,5 @@ const vara = (a,b,c,...args) => {
  //abil
  console.log(12)
 
- 
+
+ console.log(45);
