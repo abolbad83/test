@@ -41,3 +41,6 @@ const vara = (a,b,c,...args) => {
  console.log(45);
 
  var abs = ''
+
+
+ var asd = ''
